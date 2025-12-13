@@ -21,10 +21,11 @@
 I love building **end-to-end intelligent systems** where **backend engineering, frontend UX, and data science** come together.
 
 🧠 What drives me:
-- Designing **scalable backend architectures**
-- Creating **modern, responsive UIs**
-- Applying **ML/DL to real-world problems**
-- Turning ideas into **production-ready applications**
+- Designing **scalable and maintainable backend architectures**
+- Creating **modern, responsive, and user-focused UI/UX**
+- Applying **Machine Learning and Deep Learning to real-world problems**
+- Converting ideas into **production-ready, deployable applications**
+- Bridging **AI/ML & Deep Learning concepts with real-world use cases**
 
 > *“I don’t just train models — I deploy intelligence.”*
 
@@ -122,7 +123,8 @@ I love building **end-to-end intelligent systems** where **backend engineering, 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=indalbind&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=indalbind&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=indalbind&theme=github_dark" width="50%"/>
+
 </p>
 
 <p align="center">
