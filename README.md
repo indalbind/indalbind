@@ -4,8 +4,9 @@
 <h3 align="center"> Full-Stack Developer | 🤖 AI, ML & Deep Learning Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=1800&pause=600&color=00FFE1&center=true&vCenter=true&width=750&lines=Initializing+AI+Core...;Loading+Full-Stack+Modules...;Deploying+ML+Pipelines...;System+Online+%7C+Indal+Bind" />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=23&duration=1500&pause=500&color=00FFE1&center=true&vCenter=true&width=820&lines=Initializing+AI+%26+Deep+Learning+Core...;Loading+Neural+Networks+%26+Feature+Pipelines...;Compiling+Full-Stack+Systems+%26+REST+APIs...;Training+Models+%7C+Deploying+Intelligence...;SYSTEM+ONLINE+|+Indal+Bind" />
 </p>
+
 
 
 <p align="center">
@@ -54,9 +55,16 @@ I love building **end-to-end intelligent systems** where **backend engineering, 
 ---
 
 ### 🤖 Machine Learning & Deep Learning
-<p>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+<p align="left">
+  <img src="https://cdn.simpleicons.org/python/3776AB" height="40"/>
+  <img src="https://cdn.simpleicons.org/numpy/013243" height="40"/>
+  <img src="https://cdn.simpleicons.org/pandas/150458" height="40"/>
+  <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="40"/>
+  <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" height="40"/>
+  <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="40"/>
+  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="40"/>
 </p>
+
 
 - Machine Learning & Model Building  
 - Feature Engineering  
