@@ -4,7 +4,7 @@
 <h3 align="center"> Full-Stack Developer | 🤖 AI, ML & Deep Learning Enthusiast</h3>
 
 <p align="center">
-  <img src="https://media3.giphy.com/media/q217GUnfKAmJlFcjBX/giphy.gif" width="450" />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=1800&pause=600&color=00FFE1&center=true&vCenter=true&width=750&lines=Initializing+AI+Core...;Loading+Full-Stack+Modules...;Deploying+ML+Pipelines...;System+Online+%7C+Indal+Bind" />
 </p>
 
 
