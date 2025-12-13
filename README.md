@@ -1,11 +1,12 @@
 <!-- ====== SCI-FI GITHUB PROFILE README ====== -->
 
 <h1 align="center">👋 Hi, I'm Indal Bind</h1>
-<h3 align="center">⚡ Full-Stack Developer | 🤖 AI, ML & Deep Learning Enthusiast</h3>
+<h3 align="center"> Full-Stack Developer | 🤖 AI, ML & Deep Learning Enthusiast</h3>
 
 <p align="center">
-  <img src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmhjaGF6MG1hdmo5YjBrZWE4NDNpZzJzYWZmMXZvdDMwc3N4N2hubiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/q217GUnfKAmJlFcjBX/giphy.gif)" width="450" />
+  <img src="https://media3.giphy.com/media/q217GUnfKAmJlFcjBX/giphy.gif" width="450" />
 </p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=indalbind&label=Profile%20Views&color=00FFE1&style=flat" />
