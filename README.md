@@ -132,7 +132,7 @@ I love building **end-to-end intelligent systems** where **backend engineering, 
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: *Coming Soon*  
+- 💼 LinkedIn: https://www.linkedin.com/in/indaldatascientist/  
 - 🧑‍💻 GitHub: https://github.com/indalbind  
 
 ---
