@@ -1,94 +1,144 @@
 <!-- ====== SCI-FI GITHUB PROFILE README ====== -->
 
 <h1 align="center">👋 Hi, I'm Indal Bind</h1>
-<h3 align="center">⚡ Full-Stack Developer | 🤖 ML & Deep Learning Enthusiast</h3>
+<h3 align="center">⚡ Full-Stack Developer | 🤖 AI, ML & Deep Learning Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&duration=3000&pause=800&color=00FFE1&center=true&vCenter=true&width=600&lines=Building+Intelligent+Web+Systems;Full-Stack+%2B+Machine+Learning;Code.+Learn.+Deploy.;Future+AI+Engineer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=2500&pause=700&color=00FFE1&center=true&vCenter=true&width=750&lines=Building+Intelligent+Web+Systems;Full-Stack+Engineering+%2B+AI;From+Data+to+Deployment;Code.+Train.+Deploy.;Future+AI+Engineer" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=indalbind&label=Profile%20Views&color=00FFE1&style=flat" />
 </p>
 
 ---
 
 ## 🧬 About Me
 
-🚀 I am a **Full-Stack Web Developer** and **Machine Learning / Deep Learning learner**, currently pursuing the **IIT Madras BS Degree**.  
-I love building **end-to-end systems** where **software engineering meets data intelligence**.
+🚀 I am a **Full-Stack Web Developer** and an **AI / Machine Learning / Deep Learning learner**, currently pursuing the **IIT Madras BS Degree**.  
+I love building **end-to-end intelligent systems** where **backend engineering, frontend UX, and data science** come together.
 
-🧠 I focus on:
-- Writing **clean, scalable backend systems**
-- Designing **interactive frontend interfaces**
-- Applying **ML/DL concepts to real-world problems**
-- Deploying **intelligent applications**
+🧠 What drives me:
+- Designing **scalable backend architectures**
+- Creating **modern, responsive UIs**
+- Applying **ML/DL to real-world problems**
+- Turning ideas into **production-ready applications**
 
-> *“I don’t just train models — I ship products.”*
+> *“I don’t just train models — I deploy intelligence.”*
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack (Organized)
 
-### 💻 Web Development
-- **Frontend:** HTML, CSS, JavaScript, React, Vue  
-- **Backend:** Flask, Node.js, Express  
-- **APIs:** REST, JWT Authentication  
-- **Databases:** MySQL, SQLite, MongoDB  
+### 🌐 Frontend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,vue,react" />
+</p>
 
-### 🤖 Machine Learning & AI
-- **Core ML:** Regression, Classification, Feature Engineering  
-- **Text ML:** Vectorization, TF-IDF, Embeddings  
-- **Libraries:** NumPy, Pandas, scikit-learn  
-- **Deep Learning (Learning):** Neural Networks, Model Optimization  
+- HTML, CSS, JavaScript  
+- Vue.js, React.js  
 
-### ⚙️ Tools & Platforms
-- Git & GitHub  
+---
+
+### 🧩 Backend & APIs
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,java" />
+</p>
+
+- Node.js, Express.js  
+- Python, Java  
+- RESTful APIs  
+- JWT Authentication  
+
+---
+
+### 🤖 Machine Learning & Deep Learning
+<p>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+</p>
+
+- Machine Learning & Model Building  
+- Feature Engineering  
+- Regression & Classification  
+- Neural Networks  
+- **Libraries:**  
+  - NumPy, Pandas  
+  - scikit-learn  
+  - TensorFlow, PyTorch  
+  - Seaborn (Visualization)  
+
+---
+
+### 🗄️ Databases & Storage
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,sqlite,postgresql" />
+</p>
+
+- MongoDB  
+- SQLite  
+- PostgreSQL  
+
+---
+
+### ⚙️ DevOps, Tools & Environment
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,linux,git,github" />
+</p>
+
+- Docker  
 - Linux  
-- VS Code  
+- Git & GitHub  
 - Postman  
 
 ---
 
 ## 🧪 Projects
 
-🧠 **Quiz Master (Full-Stack App)**  
-- Admin & User dashboards  
-- JWT-based authentication  
-- RESTful APIs  
-- Score analytics & reports  
+🧠 **Quiz Master – Full-Stack Application**  
+- Role-based Admin & User dashboards  
+- Secure JWT authentication  
+- RESTful API architecture  
+- Quiz analytics & performance reports  
 
-🌱 **ML Practice Projects**  
-- Classification & prediction models  
-- Data preprocessing pipelines  
+🌱 **Machine Learning Practice Projects**  
+- Classification & prediction pipelines  
+- Feature engineering & preprocessing  
 - Model evaluation & optimization  
 
-> More projects loading… ⏳
+> 🚧 More intelligent systems coming soon…
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=indalbind&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=indalbind&theme=radical&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=indalbind&bg_color=0d1117&color=00ffe1&line=7f00ff&point=ffffff&area=true&hide_border=true" />
 </p>
 
 ---
 
 ## 🌌 Current Mission
 
-🧩 Strengthening **Data Structures & Algorithms**  
-📊 Advancing in **Machine Learning → Deep Learning**  
-🌐 Building **production-ready full-stack applications**  
+🧩 Mastering **Data Structures & Algorithms**  
+📊 Advancing **ML → Deep Learning → AI Systems**  
+🌐 Building **scalable, production-grade applications**  
 
 ---
 
 ## 📫 Connect With Me
 
 - 💼 LinkedIn: *Coming Soon*  
-- 🧑‍💻 GitHub: https://github.com/indalbind 
+- 🧑‍💻 GitHub: https://github.com/indalbind  
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FFE1,100:7F00FF&height=80&section=footer&text=Welcome%20to%20My%20Code%20Universe&fontColor=ffffff&fontSize=20" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFE1,100:7F00FF&height=120&section=footer&text=Welcome%20to%20My%20Code%20Universe&fontColor=ffffff&fontSize=22&animation=twinkling" />
 </p>
 
 <!-- ====== END ====== -->
