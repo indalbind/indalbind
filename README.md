@@ -63,7 +63,6 @@ I love building **end-to-end intelligent systems** where **backend engineering, 
   <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="40"/>
   <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" height="40"/>
   <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="40"/>
-  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="40"/>
 </p>
 
 
