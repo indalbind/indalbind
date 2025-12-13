@@ -118,7 +118,7 @@ I love building **end-to-end intelligent systems** where **backend engineering, 
 
 ---
 
-## 📈 GitHub Analytics
+##  GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=indalbind&show_icons=true&theme=radical&hide_border=true" width="48%" />
@@ -132,7 +132,7 @@ I love building **end-to-end intelligent systems** where **backend engineering, 
 
 ---
 
-## 🌌 Current Mission
+##  Current Mission
 
 🧩 Mastering **Data Structures & Algorithms**  
 📊 Advancing **ML → Deep Learning → AI Systems**  
