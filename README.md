@@ -4,7 +4,7 @@
 <h3 align="center">⚡ Full-Stack Developer | 🤖 AI, ML & Deep Learning Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=2500&pause=700&color=00FFE1&center=true&vCenter=true&width=750&lines=Building+Intelligent+Web+Systems;Full-Stack+Engineering+%2B+AI;From+Data+to+Deployment;Code.+Train.+Deploy.;Future+AI+Engineer" />
+  <img src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmhjaGF6MG1hdmo5YjBrZWE4NDNpZzJzYWZmMXZvdDMwc3N4N2hubiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/q217GUnfKAmJlFcjBX/giphy.gif)" width="450" />
 </p>
 
 <p align="center">
