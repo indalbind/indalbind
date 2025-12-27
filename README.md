@@ -118,8 +118,6 @@ I love building **end-to-end intelligent systems** where **backend engineering, 
 
 ---
 
-##  GitHub Analytics
-
 
 ##  Current Mission
 
