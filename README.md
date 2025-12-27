@@ -120,17 +120,6 @@ I love building **end-to-end intelligent systems** where **backend engineering, 
 
 ##  GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=indalbind&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=indalbind&theme=github_dark" width="50%"/>
-
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=indalbind&bg_color=0d1117&color=00ffe1&line=7f00ff&point=ffffff&area=true&hide_border=true" />
-</p>
-
----
 
 ##  Current Mission
 
