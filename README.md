@@ -4,8 +4,9 @@
 <h3 align="center"> Full-Stack Developer | 🤖 AI, ML & Deep Learning Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=23&duration=1800&pause=500&color=1E90FF&center=true&vCenter=true&width=820&lines=Initializing+AI+%26+Deep+Learning+Core...;Loading+Neural+Networks+%26+Feature+Pipelines...;Compiling+Full-Stack+Systems+%26+REST+APIs...;Training+Models+%7C+Deploying+Intelligence...;SYSTEM+ONLINE+|+Indal+Bind" />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=23&duration=1800&pause=500&color=1E90FF&center=true&vCenter=true&width=900&lines=Initializing+AI+%26+Deep+Learning+Core...;Building+Transformers+%7C+Attention+Mechanisms...;Loading+Neural+Networks+%26+Feature+Pipelines...;Compiling+Full-Stack+Systems+%26+REST+APIs...;Designing+Scalable+Web+APIs+%26+Backend+Services...;Training+Models+%7C+Deploying+Intelligence...;SYSTEM+ONLINE+%7C+Indal+Bind" />
 </p>
+
 
 
 
