@@ -5,19 +5,8 @@
 
 <!-- Portfolio Link -->
 <p align="center">
-  <a href="https://indalbind.vercel.app/" target="_blank"
-     style="
-       text-decoration: none;
-       color: #00FFE1;
-       font-weight: 600;
-       font-size: 16px;
-       padding: 10px 18px;
-       border: 1px solid #00FFE1;
-       border-radius: 8px;
-       display: inline-block;
-       font-family: 'Share Tech Mono', monospace;
-     ">
-    🌐 View full profile
+  <a href="https://indalbind.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-indalbind-00FFE1?style=for-the-badge&logo=vercel&logoColor=black" />
   </a>
 </p>
 
