@@ -3,6 +3,24 @@
 <h1 align="center">👋 Hi, I'm Indal Bind</h1>
 <h3 align="center"> Full-Stack Developer | 🤖 AI, ML & Deep Learning Enthusiast</h3>
 
+<!-- Portfolio Link -->
+<p align="center">
+  <a href="https://indalbind.vercel.app/" target="_blank"
+     style="
+       text-decoration: none;
+       color: #00FFE1;
+       font-weight: 600;
+       font-size: 16px;
+       padding: 10px 18px;
+       border: 1px solid #00FFE1;
+       border-radius: 8px;
+       display: inline-block;
+       font-family: 'Share Tech Mono', monospace;
+     ">
+    🌐 View full profile
+  </a>
+</p>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=23&duration=2000&pause=500&color=1E90FF&center=true&vCenter=true&width=900&lines=Initializing+AI+%26+Deep+Learning+Core...;Building+Transformers+%7C+Attention+Mechanisms...;Loading+Neural+Networks+%26+Feature+Pipelines...;Compiling+Full-Stack+Systems+%26+REST+APIs...;Designing+Scalable+Web+APIs+%26+Backend+Services...;Training+Models+%7C+Deploying+Intelligence...;SYSTEM+ONLINE+%7C+Indal+Bind" />
 </p>
