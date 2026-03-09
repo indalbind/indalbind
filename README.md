@@ -6,7 +6,7 @@
 <!-- Portfolio Link -->
 <p align="center">
   <a href="https://indalbind.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-indalbind-00FFE1?style=for-the-badge&logo=vercel&logoColor=black" />
+    <img src="https://img.shields.io/badge/PORTFOLIO-indalbind-0070F3?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Link" />
   </a>
 </p>
 
