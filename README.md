@@ -25,7 +25,7 @@
 
 ## 🧬 About Me
 
-🚀 I am a **Full-Stack Web Developer** and an **AI / Machine Learning / Deep Learning learner**, currently pursuing the **IIT Madras BS Degree**.  
+🚀 I am a **Full-Stack Web Developer** and an **AI / Machine Learning / Deep Learning Engineer**, currently pursuing the **IIT Madras BS Degree**.  
 I love building **end-to-end intelligent systems** where **backend engineering, frontend UX, and data science** come together.
 
 🧠 What drives me:
